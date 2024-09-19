@@ -1,0 +1,30 @@
+.banner {
+  background-image: url(https://th.bing.com/th/id/R.4f5f84b3b3428dd7560ef5d2b3d56a83?rik=J3n23q5jHFYMAw&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f40700000%2fColourful-Bird-birds-40741713-1280-960.jpg&ehk=9Vz7COhHqvDVIXb%2bSlQYY9vloili5sAdaixak2PoZ%2f0%3d&risl=&pid=ImgRaw&r=0);
+  height: 800px;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+  font-size: 40px;
+  font-weight: 700;
+}
+.contact-me{display: flex;
+    justify-content: center;
+    background-image: url(https://th.bing.com/th/id/OIP.wZgJvNCZuSnczsrjqyLybAHaEo?pid=ImgDet&w=474&h=296&rs=1);
+    height: 500px;
+    background-size: cover;color: antiquewhite;
+
+
+}
+form{background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+flex-direction: column;
+padding: 20px;
+}
+.input-box{
+    display: flex;
+    flex-direction: column;
+}
